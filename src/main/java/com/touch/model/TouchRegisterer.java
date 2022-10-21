@@ -86,6 +86,12 @@ public class TouchRegisterer
 		this.password = password;
 	}
 	
+	public TouchRegisterer(String email)
+	{
+		super();
+		this.email=email;
+	}
+	
 	
 	
 	

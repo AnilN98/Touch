@@ -28,6 +28,10 @@
                     <td><input type="text" name="status" placeholder="what are you feeling now" required></td>
                 </tr>
                 <tr>
+                    <td>Your Interests</td>
+                    <td><input type="text" name="interests" placeholder="what are you Interested in" required></td>
+                </tr>
+                <tr>
                     <td>When Did You First Cry</td>
                     <td><input type="date" name="dob" placeholder="25/12/2000" required></td>
                 </tr>
